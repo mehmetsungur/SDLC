@@ -1,0 +1,3 @@
+Aşağıda yer alan SDLC rollerini kısaca açıklayınız.
+
+Project Manager Product Owner Sprint Backlog Development Team Grooming Toplantısı Daily Toplantısı
